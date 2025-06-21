@@ -60,7 +60,7 @@ If you do have more VRAM- you can utilize the full 32,768 tokens and leave the K
 
     > "Goodbye, GPT-4. You kicked off a revolution. We will proudly keep your weights on a special hard drive to give to some historians in the future." — Sam Altman
 
-- 🫠 **December 28, 2024**- Alibaba's Qwen team released the weights for `QwQ-32B-Preview`- the first with thinking abilities. Sadly this release was rushed, and it's wasn't capable of generating working code.
+- 🫠 **December 28, 2024**- Alibaba's Qwen team released the weights for `QwQ-32B-Preview`- the first with thinking abilities. Sadly this release was rushed, and it wasn't capable of generating working code.
 
 - 🐳 **January 20, 2025**- China's Deepseek released the weights of `Deepseek R1`- a 671 billion parameter (over)thinking model that approaches GPT-o1's coding ability. Based on a fully-open source newly-developed architecture that allows for cheap pretraining- they pioneered stable 8-bit training (4x less cost), and optimized training code for Nvidia GPUs. Deepseek V3 base model was designed to be so cheap at training and inference, that the company still serves the full model on their website for free!
 
