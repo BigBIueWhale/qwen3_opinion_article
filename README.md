@@ -1,4 +1,4 @@
-# 💪 Qwen3-32b is **THE BEST**
+# 💪 Qwen3 is **THE BEST**
 
 🧙‍♂️ Since Github Copilot introduced in 2022, I've wanted a good LLM to use locally for coding, engineering and math.
 
@@ -78,3 +78,5 @@ Initially, the open source community thought Alibaba is lying about the benchmar
     > "At the end of the day, [Google is] the 800-pound gorilla in this"
     >
     > "I want people to know that we made Google dance." — Satya Nadella
+
+- 💪 **July 31, 2025**- Alibaba's Qwen team released `Qwen3-Coder-30B-A3B-Instruct`. The first usable coding model to run at acceptable speeds on CPU-only (~6.5 tokens per second on AMD Ryzen 9 5900HX).
