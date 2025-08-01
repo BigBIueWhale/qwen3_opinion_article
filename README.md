@@ -79,4 +79,4 @@ Initially, the open source community thought Alibaba is lying about the benchmar
     >
     > "I want people to know that we made Google dance." — Satya Nadella
 
-- 💪 **July 31, 2025**- Alibaba's Qwen team released `Qwen3-Coder-30B-A3B-Instruct`. The first usable coding model to run at acceptable speeds on CPU-only (~6.5 tokens per second on AMD Ryzen 9 5900HX).
+- 💪 **July 31, 2025**- Alibaba's Qwen team released `Qwen3-Coder-30B-A3B-Instruct`. The first usable coding model to run at acceptable speeds on CPU-only. Running on AMD Ryzen 9 5900HX laptop on LM Studio at 8-bit quantization. Offloading 3 layers to GPU- 6.5 tokens per second. CPU-only- 8 tokens per second. Of course, prompt ingestion speed improves by an order of magnitude with the partial GPU offload.
