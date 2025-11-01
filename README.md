@@ -80,3 +80,7 @@ Initially, the open source community thought Alibaba is lying about the benchmar
     > "I want people to know that we made Google dance." — Satya Nadella
 
 - 💪 **July 31, 2025**- Alibaba's Qwen team released `Qwen3-Coder-30B-A3B-Instruct`. The first usable coding model to run at acceptable speeds on CPU-only. Running on AMD Ryzen 9 5900HX laptop on LM Studio at 8-bit quantization. Offloading 3/48 layers to GPU- 6.5 tokens per second. CPU-only- 8 tokens per second. Of course, prompt ingestion speed improves by an order of magnitude with the partial GPU offload.
+
+- 💪 **October 31, 2025**- Llama.cpp supports `Qwen3-VL-32B-Instruct`. The first model capable of replacing the original `Qwen3-32B` (released end of april 2024). Extremely reliable and powerful at text-based tasks despite not being a reasoning model.\
+They also released `Qwen3-VL-32B-Thinking` the same day, but sadly it thinks too much to fit on 32GB of VRAM.\
+These VL models have amazing vision capabilities as well.
